@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.exe
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.deps.json
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.dll
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.pdb
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.dll
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.pdb
+C:\Users\julia.voronetskaja\source\repos\StringsForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.genruntimeconfig.cache
